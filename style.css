@@ -1,0 +1,48 @@
+body
+{
+    background-color: #91C788;
+}
+
+hr
+{
+    border-style: none;
+    border-top-style: dotted;
+    width: 5%;
+    border-width: 7px;
+}
+
+#boringB
+{
+    border-radius: 10%;
+    background-color: #DDFFBC;
+}
+
+.wp
+{
+    border-radius: 10%;
+}
+
+#headtable
+{
+    background-color: #FEFFDE;
+    border-radius: 100%;
+}
+
+#worktable
+{
+    background-color: #DDFFBC;
+    border-radius: 100%;
+}
+
+#skilltable
+{
+    background-color: #DDFFBC;
+    border-radius: 45%;
+}
+
+ul
+{
+    background-color: #DDFFBC;
+    width: fit-content;
+    border-radius: 35%;
+}
